@@ -1,0 +1,1 @@
+"Class that will manage folders and move files appropriately"
