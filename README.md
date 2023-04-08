@@ -9,6 +9,12 @@
 
 System for converting pdf documents of any format/model/layout into a new and unified pdf automatically. The main use case is to create a neat and clean compilation of practice exercises from textbooks and other exams, so I can use and solve daily.  
 
+Some similar projects for future reference:
+- [PDF2Exam](https://github.com/onluyen/PDF2Exam)
+- [PDF Plumber](https://github.com/jsvine/pdfplumber)
+- [PDF miner](https://github.com/pdfminer/pdfminer.six)
+- [GROBID](https://github.com/kermitt2/grobid)
+
 <img src="./utils/cover.jpg" alt="Image by user15245033 on Freepik"> 
 
 ## 💻 Requirements
